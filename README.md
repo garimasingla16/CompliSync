@@ -78,7 +78,7 @@ python -m nltk.downloader punkt
 ### Running the Application
 **Command Line Interface:**
 ```bash
-python gdpr_compliance_checker.py sample.txt
+python gdpr_compliance_checker.py sample_policy.txt
 ```
 ## 📸 Screenshots
 ### Report Summary

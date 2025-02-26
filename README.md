@@ -78,13 +78,8 @@ python -m nltk.downloader punkt
 ### Running the Application
 **Command Line Interface:**
 ```bash
-python compliance_checker.py sample.txt
+python gdpr_compliance_checker.py sample.txt
 ```
-**Web Interface (Streamlit):**
-```bash
-streamlit run main.py
-```
-
 ## 📸 Screenshots
 ### Report Summary
 ![Dashboard](https://github.com/garimasingla16/CompliSync/blob/main/1.png)

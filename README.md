@@ -1,6 +1,6 @@
 # CompliSync – Automating Compliance, Simplifying Security
 
-#I'm trying to upload one of the dataset zip file but its not getting uploaded on git even tried with git lfs so here's the drive link for it please dowload it and add to the dataset folder ![Dataset](https://drive.google.com/file/d/10sT1Boj28ATUjL3nG2SL-wNercxHUkoY/view?usp=sharing)
+I'm trying to upload one of the dataset zip file but its not getting uploaded on git even tried with git lfs so here's the drive link for it please dowload it and add to the dataset folder [Dataset](https://drive.google.com/file/d/10sT1Boj28ATUjL3nG2SL-wNercxHUkoY/view?usp=drive_link)
 ![GDPR Compliant](https://img.shields.io/badge/GDPR-Compliant-green.svg) ![HIPAA Ready](https://img.shields.io/badge/HIPAA-Ready-blue.svg) ![PCI DSS Compatible](https://img.shields.io/badge/PCI%20DSS-Compatible-orange.svg)
 
 ## 📌 Overview
